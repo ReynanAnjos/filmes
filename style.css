@@ -1,11 +1,13 @@
 .chamada{
     background: purple;
     display: flex;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    padding: 80px;
+    padding: 80px;
     justify-content: center;
 }
 body{
     background: black;
     margin: 0px;
+    font-family: "Bokor", system-ui;
+    margin-bottom: 100px;
 }

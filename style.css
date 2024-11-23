@@ -9,5 +9,18 @@ body{
     background: black;
     margin: 0px;
     font-family: "Bokor", system-ui;
+    color: aqua;
     margin-bottom: 100px;
+}
+header{
+    font-size: 35px;
+    color: black;
+    border-bottom: 3px solid black;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
